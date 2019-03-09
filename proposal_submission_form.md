@@ -1,26 +1,24 @@
 ### 2019 BIG DATA HACKATHON PROPOSAL FORM
 
-#### Team Number: `YOUR TEAM NUMBER HERE`  
+#### Team Number: `205`  
 
-#### Team Name: `YOUR TEAM NAME HERE`    
+#### Team Name: `Bluefaces`    
   
 #### Your team’s hackathon idea in TWO sentences:
-##### `YOUR TWO SENTENCES HERE`
-##### `YOUR TWO SENTENCES HERE`  
+##### `An application that shows San Diego State Univerity students and faculty where the nearest Water-Refill station is on campus, as well as showing which stations are working or out of order. This will allow San Diego State University to further reduce its plastic usage by providing a simple and accessible tool for its users.`  
   
 #### Dataset(s) your team might use for the project (Provide name and URL):
-- ##### `YOUR DATASETS HERE`
-- ##### `YOUR DATASETS  HERE`
+- ##### `The latitudes and longitudes of each water refill station on the San Diego State University campus. We will use our own data and findings to provide the data.`
 
 #### Team Coordinator GitHub Username: `YOUR TEAM COORDINATOR GITHUB USERNAME HERE`
 
 #### Team Members
 | ## |        Name         | Active SDSU student? | Female active SDSU student? | Active SDSU veteran? | 14th grade (college 2nd year) or younger? |
-| -- | :------------------ |        :---:         |            :---:            |        :---:         |                  :---:                    |
-| 01 | Test Name           |         [X]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 02 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 03 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 04 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
+| -- | :------------------ |        :---:         |            :---:            |        :---:         |                  :---:                  |
+| 01 | Jacqueline Gronotte |         [X]          |             [X]             |         [ ]          |                   [ ]                     |
+| 02 | Samantha Quiroz     |         [X]          |             [X]             |         [ ]          |                   [ ]                     |
+| 03 | Daniel Valoria      |         [X]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 04 | Jesus Lopez         |         [X]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 05 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 06 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 07 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
@@ -31,14 +29,14 @@
 #### A question your team is answering (check a box OR provide a question your team created)
 
 **Smart City**
-- [x] How can San Diegans have better options for parking in high-traffic areas to void congestion?
-- [x] How can we get an emergency vehicle to the scene in shortest possible time can save lives?
+- [ ] How can San Diegans have better options for parking in high-traffic areas to void congestion?
+- [ ] How can we get an emergency vehicle to the scene in shortest possible time can save lives?
 - [ ] Your question:
 
 **Smart Environment**
 - [ ] How can San Diegans have access to better air quality indoors and outdoors?
 - [ ] How can we clean San Diego beaches effectively?
-- [ ] Your question:
+- [X] Your question: How can we continue to help lower the usage of plastic water bottles at San Diego State University?
 
 **Smart Education**
 - [ ] How can schools better utilize their physical resources?
