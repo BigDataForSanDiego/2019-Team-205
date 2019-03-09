@@ -10,7 +10,7 @@
 #### Dataset(s) your team might use for the project (Provide name and URL):
 - ##### `The latitudes and longitudes of each water refill station on the San Diego State University campus. We will use our own data and findings to provide the data.`
 
-#### Team Coordinator GitHub Username: `YOUR TEAM COORDINATOR GITHUB USERNAME HERE`
+#### Team Coordinator GitHub Username: `jackiegronotte`
 
 #### Team Members
 | ## |        Name         | Active SDSU student? | Female active SDSU student? | Active SDSU veteran? | 14th grade (college 2nd year) or younger? |
